@@ -452,7 +452,7 @@ public:
             std::cout << std::endl;
         }
 
-        // Methodology: ASCII Art Rendering
+        // Hello World 0=
         if (useColor) std::cout << Color::BRIGHT_CYAN;
         std::string padding((width - 58) / 2, ' ');
         std::cout << padding << " _   _      _ _                            _     _ _ \n";

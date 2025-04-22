@@ -4,10 +4,6 @@
 
 A 3D renderer that makes a rotating Earth using ASCII characters for terminal display. Complete with procedural continents, clouds, day/night cycles, and city lights!!!!
 
-## Demonstration Video and Code Walk-through.
-https://youtu.be/cie1Gqk1aVM
-
-
 ## Mathematical Foundation
 
 ### 1. Vector Mathematics
